@@ -3,7 +3,8 @@
 # Table of contents
 
 - [Hacker News Analysis](#hacker-news-analysis)
-- [The challenge](#the-challenge)
+- [Your role](#your-role)
+- [Criteria](#criteria)
 - [Descriptions of challenges](#descriptions-of-challenges)
 - [Datasets](#datasets)
 
@@ -19,7 +20,7 @@ Hacker News provides a rich [API](https://github.com/HackerNews/API) that allows
 
 A useful R client [szymanskir/hackeRnews](https://github.com/szymanskir/hackeRnews) made it possible to prepare data for this language-agnostic [Text Mining Hackathon](https://2020.whyr.pl/hackaton/) at [Why R? 2020 conference](https://2020.whyr.pl).
 
-# The challenge
+# Your role
 
 A language agnostic competition devoted to text mining where every machine learning practitioner can find challenges to test his/her team!
 
@@ -37,7 +38,7 @@ You already should realize that the deadline for solutions is 2020-09-24 5:30 UT
 
 Check out the last chapter about [going one level higher](#-going-one-level-higher)
 
-## Criteria
+# Criteria
 
 - Whether there are at least 3 people in the team?
 - Is the presentation based on HackeR News data?

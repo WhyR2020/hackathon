@@ -121,5 +121,5 @@ Each challenge can be submitted in one of 2 forms: regular (with data provided b
 library(jsonlite)
 articles <- fromJSON(readLines('data/articles.json'))
 ```
-<img src="https://raw.githubusercontent.com/MarcinKosinski/hackathon/master/img/agarticles.png"
+<img src="https://raw.githubusercontent.com/MarcinKosinski/hackathon/master/img/articles.png"
      alt="articles" />

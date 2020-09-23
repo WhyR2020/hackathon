@@ -36,7 +36,7 @@ Please send your solutions for every challenge as a separate (max 5 min) video. 
 
 **You already should realize that the deadline for solutions is 2020-09-24 5:30 UTC.**
 
-Check out the last chapter about [going one level higher](#-going-one-level-higher)
+Check out the last chapter about [going one level higher](#going-one-level-higher)
 
 # Criteria
 

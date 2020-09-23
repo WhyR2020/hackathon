@@ -117,6 +117,8 @@ Each challenge can be submitted in one of 2 forms: regular (with data provided b
 
 # Datasets
 
+> To make the event more challenging and to make the competition more realistic, in terms of business realities, the **comments** and **content** articles will get updated/extended from a time to time. The **articles** dataset will not be updated.
+
 
 ### Articles
 

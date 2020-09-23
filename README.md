@@ -32,9 +32,9 @@ Help your business team to understand characteristics of users and patterns of b
 
 At this hackathon you can scale the level of difficulty and the area of challenges on your own. Depending on skills and the time that you have you can tune the fun on your own!
 
-Please send your solutions for every challenge as a separate (max 5 min) video. Each video presenting the solution should be published online and you should fill [this form](https://forms.gle/D8eskXZka9HGQVC88) with a team’s name and the url to the video (form closes at 2020-09-24 5:30 UTC). When making a video that presents a solution keep in mind below criterias. For the challenge 1 please submit a short video presenting how you come up with predictions and please send predictions to kontakt_at_whyr.pl no later than 2020-09-24 5:30 UTC. You can also add a url to the presentation or the dashboard that you made to present your insights.
+Please send your solutions for every challenge as a separate (max 5 min) video. Each video presenting the solution should be published online and you should fill [this form](https://forms.gle/D8eskXZka9HGQVC88) with a team’s name and the url to the video (form closes at 2020-09-24 5:30 pm UTC). When making a video that presents a solution keep in mind below criterias. For the challenge 1 please submit a short video presenting how you come up with predictions and please send predictions to kontakt_at_whyr.pl no later than 2020-09-24 5:30 pm UTC. You can also add a url to the presentation or the dashboard that you made to present your insights.
 
-**You already should realize that the deadline for solutions is 2020-09-24 5:30 UTC.**
+**You already should realize that the deadline for solutions is 2020-09-24 5:30 pm UTC.**
 
 Check out the last chapter about [going one level higher](#going-one-level-higher)
 

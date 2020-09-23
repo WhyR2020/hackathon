@@ -123,3 +123,12 @@ articles <- fromJSON(readLines('data/articles.json'))
 ```
 <img src="https://raw.githubusercontent.com/MarcinKosinski/hackathon/master/img/articles.png"
      alt="articles" />
+
+
+```{R}
+library(jsonlite)
+comments_recent <- fromJSON(readLines('data/comments_recent.json'))
+```
+
+<img src="https://raw.githubusercontent.com/MarcinKosinski/hackathon/master/img/comments.png"
+     alt="articles" />

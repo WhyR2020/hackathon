@@ -141,7 +141,8 @@ comments_recent <- fromJSON(readLines('data/comments_recent.json'))
      
 ### Content
 
-Available under this [Dropbox url](https://www.dropbox.com/s/qhuvcfm1bs5wtwt/content.csv?dl=0)
+Available in pieces under this [Dropbox url](https://www.dropbox.com/s/u0uzdu0ioyvmh0n/content.rar?dl=0).
+We decided to split the file into smaller ones so that you can at least read some of the articles if you can't get the full file straight.
      
 ```{R}
 library(readr)

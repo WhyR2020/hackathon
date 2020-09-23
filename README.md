@@ -117,6 +117,9 @@ Each challenge can be submitted in one of 2 forms: regular (with data provided b
 
 # Datasets
 
+
+### Articles
+
 ```{R}
 library(jsonlite)
 articles <- fromJSON(readLines('data/articles.json'))
@@ -124,6 +127,7 @@ articles <- fromJSON(readLines('data/articles.json'))
 <img src="https://raw.githubusercontent.com/MarcinKosinski/hackathon/master/img/articles.png"
      alt="articles" />
 
+### Comments
 
 ```{R}
 library(jsonlite)
@@ -131,4 +135,16 @@ comments_recent <- fromJSON(readLines('data/comments_recent.json'))
 ```
 
 <img src="https://raw.githubusercontent.com/MarcinKosinski/hackathon/master/img/comments.png"
+     alt="articles" />
+     
+### Content
+
+Available under this [Dropbox url](https://www.dropbox.com/s/qhuvcfm1bs5wtwt/content.csv?dl=0)
+     
+```{R}
+library(readr)
+content <- read_csv('data/content.csv')
+```
+
+<img src="https://raw.githubusercontent.com/MarcinKosinski/hackathon/master/img/content.png"
      alt="articles" />

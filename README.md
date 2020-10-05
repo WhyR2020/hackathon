@@ -1,6 +1,15 @@
 ### [Text Mining Hackathon](https://2020.whyr.pl/hackaton/) Challenges
 
-# Winners!
+# Table of contents
+
+- [Winners](#winners)
+- [Hacker News Analysis](#hacker-news-analysis)
+- [Your role](#your-role)
+- [Criteria](#criteria)
+- [Descriptions of challenges](#descriptions-of-challenges)
+- [Datasets](#datasets)
+
+# Winners
 
 # Challenge 1 - Predictions
 
@@ -30,15 +39,6 @@
 - [Video](https://youtu.be/mkLc53uuGQ8)
 - [Slides](https://github.com/WhyR2020/hackathon/blob/master/solutions/challenge4.pptx)
 
-
-
-# Table of contents
-
-- [Hacker News Analysis](#hacker-news-analysis)
-- [Your role](#your-role)
-- [Criteria](#criteria)
-- [Descriptions of challenges](#descriptions-of-challenges)
-- [Datasets](#datasets)
 
 # Hacker News Analysis
 

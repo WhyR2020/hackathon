@@ -24,6 +24,7 @@
 
 - [Video](https://youtu.be/Qzt9RwdRtJk)
 - [Slides](https://github.com/WhyR2020/hackathon/blob/master/solutions/challenge2.pptx)
+- [Code](https://github.com/mwkyuen/whyR_challenge2/)
 
 # Challenge 3 - Churn
 
@@ -31,6 +32,7 @@
 
 - [Video](https://youtu.be/FpQkolfxgZM)
 - [Slides](https://github.com/WhyR2020/hackathon/blob/master/solutions/challenge3.pptx)
+- [Code](https://github.com/dszokolics/hackathon-2020)
 
 # Challenge 4 - Text Analysis / Revealing the content
 
@@ -38,6 +40,7 @@
 
 - [Video](https://youtu.be/mkLc53uuGQ8)
 - [Slides](https://github.com/WhyR2020/hackathon/blob/master/solutions/challenge4.pptx)
+- [Code](https://github.com/kornelro/whyr_hack)
 
 
 # Hacker News Analysis

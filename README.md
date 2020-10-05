@@ -1,5 +1,37 @@
 ### [Text Mining Hackathon](https://2020.whyr.pl/hackaton/) Challenges
 
+# Winners!
+
+# Challenge 1 - Predictions
+
+<img src="https://raw.githubusercontent.com/WhyR2020/hackathon/master/img/1.jpg" alt="main" />
+
+- [Video](https://youtu.be/DYc6H1UWnXI)
+- [Slides](https://github.com/WhyR2020/hackathon/blob/master/solutions/challenge1.pptx)
+
+# Challenge 2 - Segmentation
+
+<img src="https://raw.githubusercontent.com/WhyR2020/hackathon/master/img/2.jpg" alt="main" />
+
+- [Video](https://youtu.be/Qzt9RwdRtJk)
+- [Slides](https://github.com/WhyR2020/hackathon/blob/master/solutions/challenge2.pptx)
+
+# Challenge 3 - Churn
+
+<img src="https://raw.githubusercontent.com/WhyR2020/hackathon/master/img/3.jpg" alt="main" />
+
+- [Video](https://youtu.be/FpQkolfxgZM)
+- [Slides](https://github.com/WhyR2020/hackathon/blob/master/solutions/challenge3.pptx)
+
+# Challenge 4 - Text Analysis / Revealing the content
+
+<img src="https://raw.githubusercontent.com/WhyR2020/hackathon/master/img/4.jpg" alt="main" />
+
+- [Video](https://youtu.be/mkLc53uuGQ8)
+- [Slides](https://github.com/WhyR2020/hackathon/blob/master/solutions/challenge4.pptx)
+
+
+
 # Table of contents
 
 - [Hacker News Analysis](#hacker-news-analysis)

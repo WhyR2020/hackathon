@@ -17,6 +17,8 @@
 
 - [Video](https://youtu.be/DYc6H1UWnXI)
 - [Slides](https://github.com/WhyR2020/hackathon/blob/master/solutions/challenge1.pptx)
+- Members: [Keerthi Bojja](https://www.linkedin.com/in/keerthibojja/), [Sai Satyashree V](https://www.linkedin.com/in/sai-satyashree-v-95a05a13b/), [Nimeelitha Akkiraju
+](https://www.linkedin.com/in/nimeelitha-akkiraju/), [Punardeep Singh Johar](https://www.linkedin.com/in/punardeep-singh-johar/)
 
 # Challenge 2 - Segmentation
 
@@ -25,6 +27,7 @@
 - [Video](https://youtu.be/Qzt9RwdRtJk)
 - [Slides](https://github.com/WhyR2020/hackathon/blob/master/solutions/challenge2.pptx)
 - [Code](https://github.com/mwkyuen/whyR_challenge2/)
+- Members: [Philip Li](https://www.linkedin.com/in/philipxpli/), [Michael Yuen](https://www.linkedin.com/in/mwkyuen/), [Alvin Nursalim](https://www.linkedin.com/in/alvin-n/)
 
 # Challenge 3 - Churn
 
@@ -33,6 +36,7 @@
 - [Video](https://youtu.be/FpQkolfxgZM)
 - [Slides](https://github.com/WhyR2020/hackathon/blob/master/solutions/challenge3.pptx)
 - [Code](https://github.com/dszokolics/hackathon-2020)
+- Members: [Bence Farsang](https://www.linkedin.com/in/bence-istv%C3%A1n-farsang-00ab8a13b), [Bence Molnár](https://www.linkedin.com/in/bence-moln%C3%A1r-872003138), [Dániel Szokolics](https://www.linkedin.com/in/d%C3%A1niel-szokolics-b2969a8a), [Kristóf Rábay](https://www.linkedin.com/in/kristofrabay/), [Gerold Csendes](https://www.linkedin.com/in/gcsendes/)
 
 # Challenge 4 - Text Analysis / Revealing the content
 
@@ -41,6 +45,7 @@
 - [Video](https://youtu.be/mkLc53uuGQ8)
 - [Slides](https://github.com/WhyR2020/hackathon/blob/master/solutions/challenge4.pptx)
 - [Code](https://github.com/kornelro/whyr_hack)
+- Members: [Łukasz Łaszczuk](https://www.linkedin.com/in/%C5%82ukasz-%C5%82aszczuk-141361187/), [Kornel Romański](https://www.linkedin.com/in/kornel-roma%C5%84ski-19a4111b6/), [Jarosław Opała](https://www.linkedin.com/in/jaroslaw-opala/), [Michał Malarek](https://www.linkedin.com/in/micha%C5%82-malarek-7332a91a9/), [Patryk Wielopolski](https://www.linkedin.com/in/patryk-wielopolski/)
 
 
 # Hacker News Analysis

@@ -47,6 +47,13 @@
 - [Code](https://github.com/kornelro/whyr_hack)
 - Members: [Łukasz Łaszczuk](https://www.linkedin.com/in/%C5%82ukasz-%C5%82aszczuk-141361187/), [Kornel Romański](https://www.linkedin.com/in/kornel-roma%C5%84ski-19a4111b6/), [Jarosław Opała](https://www.linkedin.com/in/jaroslaw-opala/), [Michał Malarek](https://www.linkedin.com/in/micha%C5%82-malarek-7332a91a9/), [Patryk Wielopolski](https://www.linkedin.com/in/patryk-wielopolski/)
 
+# A shout out
+
+> For the only team that submitted solutions to all 4 challenges!
+
+<img src="https://raw.githubusercontent.com/WhyR2020/hackathon/master/img/5.jpg" alt="main" />
+
+Team MeanGuys!
 
 # Hacker News Analysis
 

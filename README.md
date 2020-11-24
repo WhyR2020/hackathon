@@ -55,7 +55,7 @@
 
 Team MeanGuys!
 
-- Members: [Michał Makowski](https://www.linkedin.com/in/mchlmakowski/), [Brandon Strain](https://www.linkedin.com/in/brandon-strain/), [Kartikeya Kirar](https://www.linkedin.com/in/brandon-strain/), Ambarish Ganguly, Abdul Majed
+- Members: [Michał Makowski](https://www.linkedin.com/in/mchlmakowski/), [Brandon Strain](https://www.linkedin.com/in/brandon-strain/), [Kartikeya Kirar](https://www.linkedin.com/in/brandon-strain/), Ambarish Ganguly, [Abdul Majed](linkedin.com/in/amrrs)
 
 # Hacker News Analysis
 
